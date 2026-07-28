@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1879
+slug  : the-water-memory
+seal  : 1f3519ad842f33245fa4a8babd9271fca57275ddf218e56ea53fca1b7cf8982f
+prev  : faf75eca72451ef2a0ed72ddb834132ff82059d58870b3366d415a22bdf99cfb
+link  : 69f8b1e5ab541107e6719d3ffba453f377ecc07ce9bd7377d2bc4102adfe3186
+head  : 69f8b1e5ab541107e6719d3ffba453f377ecc07ce9bd7377d2bc4102adfe3186
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
